@@ -1,11 +1,11 @@
 # nunif_waifu2x_install_record_windows11_conda
 
-## First create conda env
+## First: create conda env
 
-## Second install pytorch
+## Second: install pytorch
 https://youtu.be/dK8fL2-3SQ8?si=kNDvADz-PFKsy9Vb
 
-## Third Clone and Run and Finish
+## Third: Clone and Run and Finish
 https://github.com/nagadomi/waifu2x<br>
 https://github.com/nagadomi/nunif
 ```
