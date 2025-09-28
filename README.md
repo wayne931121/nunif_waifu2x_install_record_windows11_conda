@@ -13,8 +13,9 @@ https://github.com/nagadomi/nunif
 #I download zip from https://github.com/nagadomi/nunif and extract to "C:\...\nunif-master\nunif-master"
 #the "C:\...\nunif-master\nunif-master" has "waifu2x/download_models.py"
 #the r.txt is combine and modify from 
-  1. https://github.com/nagadomi/nunif/blob/master/requirements-gui.txt
+  1. https://github.com/nagadomi/nunif/blob/master/requirements.txt
   2. https://github.com/nagadomi/nunif/blob/master/requirements-gui.txt
+# (at 20250929)
 
 conda activate C://ai
 
