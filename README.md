@@ -41,3 +41,16 @@ python -m waifu2x.web --no-size-limit --cache-ttl 120
 
 python -m iw3.gui
 ```
+
+## Next time you want to run:
+```
+#open cmd
+
+conda activate C://ai
+
+cd "C:\...\nunif-master\nunif-master"
+
+set KMP_DUPLICATE_LIB_OK=TRUE
+
+python -m waifu2x.gui
+```
