@@ -1,4 +1,11 @@
 # nunif_waifu2x_install_record_windows11_conda
+
+## First create conda env
+
+## Second install pytorch
+https://youtu.be/dK8fL2-3SQ8?si=kNDvADz-PFKsy9Vb
+
+## Third Clone and Run and Finish
 ```
 #I have create the env with conda before, and I arealdy installed PyTorch with CUDA 12.1
 #I download zip from https://github.com/nagadomi/nunif and extract to "C:\...\nunif-master\nunif-master"
