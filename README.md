@@ -1,0 +1,1 @@
+# nunif_waifu2x_install_record_windows11_conda
