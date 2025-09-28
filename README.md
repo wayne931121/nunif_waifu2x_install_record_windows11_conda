@@ -6,6 +6,8 @@
 https://youtu.be/dK8fL2-3SQ8?si=kNDvADz-PFKsy9Vb
 
 ## Third Clone and Run and Finish
+https://github.com/nagadomi/waifu2x<br>
+https://github.com/nagadomi/nunif
 ```
 #I have create the env with conda before, and I arealdy installed PyTorch with CUDA 12.1
 #I download zip from https://github.com/nagadomi/nunif and extract to "C:\...\nunif-master\nunif-master"
